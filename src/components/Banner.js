@@ -34,8 +34,8 @@ const Banner = () => {
                     {movie?.title || movie?.name || movie?.original_name}
                 </Typography>
                 <div className={classes.buttons}>
-                    <Button>Play</Button>
-                    <Button>My List</Button>
+                    <Button>Reproducir</Button>
+                    <Button>Mi lista</Button>
                 </div>
                 <Typography style={{ wordWrap: "break-word", width: "500px" }} variant="h6" className={classes.description}>
                     {truncate(movie?.overview, 160)}
