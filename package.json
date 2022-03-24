@@ -2,7 +2,7 @@
   "name": "netflix_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jfsaenzr.github.io/project_netflix",
+  "homepage": "https://jfsaenzr.github.io/netflix_project",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@reduxjs/toolkit": "^1.8.0",
